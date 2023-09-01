@@ -1,0 +1,14 @@
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+
+# Floor Division
+print("Floor Division of a and b is:", a // b)
+
+# a power b
+print("a raised to the power b is:", a ** b)
+
+# Check if a and b are equal or not
+if a == b:
+    print("True")
+else:
+    print("False")
